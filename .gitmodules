@@ -1,0 +1,3 @@
+[submodule "lib/moment-recur"]
+	path = lib/moment-recur
+	url = git@github.com:c-trimm/moment-recur.git
