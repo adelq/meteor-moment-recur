@@ -6,6 +6,6 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.3.1');
-  api.use('moment');
+  api.use('mrt:moment@2.8.1');
   api.addFiles('lib/moment-recur/moment-recur.js');
 });
